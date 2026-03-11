@@ -177,4 +177,4 @@ Report121 is a product by [Tracto](https://www.tracto.com.br/).
 
 ## Status
 
-✅ In production at [report121.com](https://report121.com)
+✅ In production at [report121.com/dashboard](https://report121.com/dashboard)
