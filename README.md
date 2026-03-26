@@ -12,6 +12,12 @@ Instead of cold outreach, the seller approaches the lead already equipped with a
 
 ---
 
+## Demo
+
+[![Watch the demo](https://img.youtube.com/vi/gA581Yu5lX4/maxresdefault.jpg)](https://youtu.be/gA581Yu5lX4)
+
+---
+
 ## How It Works
 
 1. The **Client** (paying company) accesses the dashboard and inputs a target company.
@@ -154,19 +160,6 @@ Plan ──1:N──► Client ──1:N──► User
 
 ---
 
-## Screenshots
-
-### Assessment Report (Public View)
-*Personalized report delivered to the prospect with scores, analysis, and recommendations.*
-
-### Dashboard
-*Client interface for creating assessments, managing leads, and tracking results.*
-
-### Lead Discovery
-*Multi-source lead discovery with confidence scoring.*
-
----
-
 ## About
 
 Built by [Cassio Politi](https://www.linkedin.com/in/cassiopoliti/) — AI-Powered SaaS Builder.
@@ -177,4 +170,4 @@ Report121 is a product by [Tracto](https://www.tracto.com.br/).
 
 ## Status
 
-✅ In production at [report121.com/dashboard](https://report121.com/dashboard)
+✅ In production at [report121.com](https://report121.com)
